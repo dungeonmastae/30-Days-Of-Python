@@ -71,7 +71,7 @@ The format of the request and response messages are similar. Both kinds of messa
 - a blank line (i.e. a CRLF by itself), and
 - an optional message body (e.g. a file, or query data, or query output).
 
-Let's an example of request and response messages by navigating this site:https://thirtydaysofpython-v1-final.herokuapp.com/
+Let's see an example of request and response messages by navigating this site:https://thirtydaysofpython-v1-final.herokuapp.com/
 
 ![Request and Response header](../images/request_response_header.png)
 
